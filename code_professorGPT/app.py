@@ -19,7 +19,7 @@ st.title("Code ProfessorGPT App")
 st.divider()
 prompt = st.text_input("Enter your code here:", "")
 gptbutton = st.button("Explain Code")
-st.caption("This app uses OpenAI's GPT-4o-mini model to explain code in simple terms.")
+st.caption("Your AI coding teacher that explains code step by step.")
 st.divider()
 
 if gptbutton:

@@ -19,7 +19,8 @@ st.title("TranslatorGPT App")
 st.divider()
 prompt = st.text_input("Enter your code here:", "")
 gptbutton = st.button("Translate Code")
-st.caption("This app uses OpenAI's GPT-4o-mini model to translate code into different programming languages.")
+st.caption("Paste your code to translate it into different programming languages.")
+st.caption("Ex: def add(a, b): return a + b")
 st.divider()
 
 if gptbutton:

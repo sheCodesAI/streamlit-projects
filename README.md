@@ -1,13 +1,47 @@
-# Streamlit Projects by Niraja
+# 🚀 Streamlit Mini Apps
 
-This repository contains my Streamlit learning projects and mini applications.
+A collection of interactive Streamlit applications built with Python, showcasing AI integration, user interaction, and web application development.
 
-## 🚀 Live Demos
+## 📌 Projects
 
-### Python Level Form
-A simple Streamlit form that collects user details and Python proficiency level.
+### 🌐 TranslateGPT
+AI-powered text translation application.
 
-🔗 Live App: https://niraja-python-level-form.streamlit.app/
+🔗 Live Demo: https://translate-gpt.streamlit.app/
 
 ---
-More projects will be added here as I continue learning Streamlit.
+
+### 🤖 CodeGPT
+AI coding assistant for generating, explaining, and debugging code.
+
+🔗 Live Demo: https://niraja-codegpt.streamlit.app/
+
+---
+
+### 🐍 Python Level Form
+A simple Streamlit form that collects user details and Python proficiency level.
+
+🔗 Live Demo: https://niraja-python-level-form.streamlit.app/
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- OpenAI
+
+## ▶️ Run Locally
+
+```bash
+git clone https://github.com/yourusername/repository-name.git
+cd repository-name
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 👩‍💻 Author
+
+**Niraja**
+
+GitHub: https://github.com/yourusername
